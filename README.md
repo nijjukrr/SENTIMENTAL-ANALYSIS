@@ -1,4 +1,4 @@
-# 🤖 AI Sentiment Analyzer
+# 🤖 AI Sentiment Analyzer 🚀
 
 A sleek and interactive Sentiment Analysis application built with Streamlit. This tool uses a rule-based approach to detect the emotional tone of your sentences, providing instant feedback on whether your text is **Positive**, **Negative**, or **Neutral**.
 
