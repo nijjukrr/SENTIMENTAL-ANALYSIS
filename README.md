@@ -56,6 +56,21 @@ Simply enter any sentence in the text area and click the **"Analyze Sentiment"**
 
 Contributions are welcome! If you have suggestions for new keywords or features, feel free to open an issue or submit a pull request.
 
+## 🌐 Deployment
+
+### Deploy to Vercel (Recommended)
+This project is configured to run on Vercel using **stlite** (Streamlit in the browser). 
+
+1. **Push your changes** to GitHub.
+2. Go to [Vercel](https://vercel.com).
+3. Import this repository.
+4. Vercel will automatically detect the `index.html` and deploy it as a static site.
+
+### Deploy to Streamlit Community Cloud
+1. Ensure `requirements.txt` is present.
+2. Connect your GitHub account to [Streamlit Cloud](https://share.streamlit.io/).
+3. Select this repository and `App.py` as the main file.
+
 ---
 
 ## 📄 License
